@@ -19,7 +19,7 @@ bash train.sh
 ```
 
 ## Contact and Reference
-For questions and issues, please contact `riloff@cs.utah.edu`. Our paper can be cited as:
+For questions and issues, please contact `riloff@cs.utah.edu` or `tianyu.jiang@uc.edu`. Our paper can be cited as:
 ```
 @inproceedings{jiang-et-al-2023-organization,
 title="{Classifying Organizations for Food System Ontologies using Natural Language Processing}",
@@ -30,3 +30,7 @@ booktitle={The fourth annual Integrated Food Ontology Workshop (IFOW 2023)},
 year={2023}
 }
 ```
+
+## Acknowledgments
+This research was supported in part by the ICICLE project through NSF award OAC 2112606 and the Canadian Institutes of Health Research FRN 177412.
+
