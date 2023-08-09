@@ -5,7 +5,15 @@ Code for the paper [Classifying Organizations for Food System Ontologies using N
 This project is built on python==3.8.5, torch=1.5.1, transformers==2.9.0.
 
 ## How to Run
-Under either folder environmental_issues_classification/ or sic_code_classification/, run
+First untar the compressed data file under
+```
+sic_code_classification/data/sic_code/
+```
+by
+```
+ls *.tar.gz | xargs -i tar -xzvf {}
+```
+Then under either environmental_issues_classification/ or sic_code_classification/ folder, run
 ```
 bash train.sh
 ```
